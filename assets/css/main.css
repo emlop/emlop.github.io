@@ -2593,7 +2593,7 @@ input[type="button"],
 /* One */
 
 #one:before {
-    background-image: url("../../images/banner.jpg");
+    background-image: url("../../images/background.jpg");
     background-position: top right;
     background-repeat: no-repeat;
     background-size: cover;
