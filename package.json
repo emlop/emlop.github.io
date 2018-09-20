@@ -1,0 +1,22 @@
+{
+  "name": "emlop.github.io",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emlop/emlop.github.io.git"
+  },
+  "author": "Emel Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emlop/emlop.github.io/issues"
+  },
+  "homepage": "https://github.com/emlop/emlop.github.io#readme",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
