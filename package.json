@@ -15,8 +15,8 @@
   "bugs": {
     "url": "https://github.com/emlop/emlop.github.io/issues"
   },
-  "homepage": "https://github.com/emlop/emlop.github.io#readme",
   "dependencies": {
+    "gh-pages": "^2.0.0",
     "node-sass": "^4.9.3"
   }
 }
