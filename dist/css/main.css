@@ -223,11 +223,13 @@ main {
 
 .btn-dark {
   background: rgba(0, 0, 0, 0.39);
-  color: #fff; }
+  color: #fff;
+  text-align: center; }
 
 .btn-light {
   background: rgba(255, 255, 255, 0.39);
-  color: #333; }
+  color: #333;
+  text-align: center; }
 
 #main-footer {
   text-align: center;
